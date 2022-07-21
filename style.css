@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@600&display=swap');
+.container{
+text-align: center;
+margin: auto;
+background-color:#40456D;
+width: 350px;
+border: 8px solid rgb(13, 13, 92);
+border-radius: 20px;
+}
+
+h1{
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 80px;
+    color: aliceblue;
+}
+
+button{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 10px;
+    font-family: 'Edu QLD Beginner', cursive;
+}
+.play{
+    background-color: #E69C45;
+}
+.pause{
+    background-color: #A2421F;
+}
+
+.stop{
+    background-color: #CF9869;
+}
